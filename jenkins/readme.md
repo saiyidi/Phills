@@ -31,5 +31,6 @@
           Click Credentials and then Jenkins , then Global Credentials and then click Add Credentials.
           Keep it global scope. 
           Give it an ID. eg: dockerhub
+          
  Step 5 - Build and Push Docker Image in Jenkins Pipelines by simply clicking Build now. 
 
