@@ -8,10 +8,12 @@
       Once Jenkins is up , note the admin password.
       Goto http://localhost:8081 
       Enter the password which we saved 
-      Then create a new user and password in the page which appears.      
+      Then create a new user and password in the page which appears. 
+      
  Step 2 - Initializing Jenkins Plugins and Creating a Github Repo
       Create a github repo to save the Jenkins folder
       Commit and push the folder which comprises of sample java code. 
+      
  Step 3 - Setting up Docker and Maven in Jenkins and First Pipeline Run
       In Jenkins UI- 
          Click on Global Tool Configuration 
